@@ -1,0 +1,13 @@
+body {
+	background-color: #2D383C;
+}
+li {
+	display: inline;
+	padding: 5px;
+}
+.column {
+	background-color: #0784B5;
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
